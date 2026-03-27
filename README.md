@@ -1,11 +1,13 @@
-Note: 
-This project was developed as part of a group poject.
+*Note: 
+This project was developed as part of a group poject.*
 
-My contributions: 
+ My contributions: 
 
-Developed Library.cpp for managening book inventory and core operations.
-Developed Student.cpp to handle student records,borrowing/returning, and user interations.
-Contributed in overall system integration.
+-Developed Library.cpp for managening book inventory and core operations.
+
+-Developed Student.cpp to handle student records,borrowing/returning, and user interations.
+
+-Contributed in overall system integration.
 
 Library Management System
 
